@@ -116,7 +116,7 @@ body {
 }
 
 .home .foto.sombra-interna {
-  background: linear-gradient(to right, red, blue, purple);
+  background: linear-gradient(to right, red, green, white);
 }
 
 .projetos {
